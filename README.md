@@ -58,7 +58,7 @@ These views were imported into Power BI for financial modeling and dashboard vis
 
 ## 🏢 Executive Property Overview
 
-![Executive Property REIT](screenshots/executive_overview.png)
+![Executive_Overview](screenshots/executive_overview.png)
 
 ### Key Metrics Displayed:
 - Total Portfolio Revenue
